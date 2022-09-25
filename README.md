@@ -1,4 +1,3 @@
-![Point of Sale Pro API Version 1](https://i.imgur.com/e5edAjF.png)
 # Point of Sale Pro API Version 1
 Point of Sale Pro is currently available for wide release. This repository is designed to provide information relating to the API access.
 
